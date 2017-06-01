@@ -1,0 +1,71 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite--icon-login {
+    width: 18px;
+    height: 16px;
+    background-position: -5px -5px;
+}
+
+.sprite-chb-checked {
+    width: 20px;
+    height: 20px;
+    background-position: -33px -5px;
+}
+
+.sprite-chbox {
+    width: 20px;
+    height: 20px;
+    background-position: -63px -5px;
+}
+
+.sprite-fb {
+    width: 12px;
+    height: 22px;
+    background-position: -93px -5px;
+}
+
+.sprite-fb-black {
+    width: 12px;
+    height: 22px;
+    background-position: -115px -5px;
+}
+
+.sprite-ig {
+    width: 21px;
+    height: 21px;
+    background-position: -137px -5px;
+}
+
+.sprite-ig-black {
+    width: 21px;
+    height: 21px;
+    background-position: -168px -5px;
+}
+
+.sprite-rdb-checked {
+    width: 21px;
+    height: 20px;
+    background-position: -199px -5px;
+}
+
+.sprite-rdbutton {
+    width: 21px;
+    height: 20px;
+    background-position: -230px -5px;
+}
+
+.sprite-vk {
+    width: 25px;
+    height: 16px;
+    background-position: -261px -5px;
+}
+
+.sprite-vk-black {
+    width: 25px;
+    height: 16px;
+    background-position: -296px -5px;
+}
